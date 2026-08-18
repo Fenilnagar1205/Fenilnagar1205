@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5DE3,100:6C4FD6&height=220&section=header&text=Hi%20There,%20I'm%20Fenil%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20real%20web%20apps%20from%20scratch&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5DE3,100:6C4FD6&height=220&section=header&text=Hi%20There,%20I'm%20Fenil%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20real%20web%20apps%20from%20scratch&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/fenil-nagar1205">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
